@@ -2,13 +2,15 @@
 ***
 
 #### Мои проекты:
-<br>
-
 [![Чат-бот «Провидение»](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chatbotprovidenie.png)](https://google.com/)
 
-<br>
-
-#### Языки и инструменты:
+#### Техническое портфолио:
+* Тест-кейсы
+* Баг-репорты
+* MindMap
+* Тестовая документация
+* Примеры API-запросов
+* Примеры SQL-запросов
 
 #### Языки и инструменты:
 
