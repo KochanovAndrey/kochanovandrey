@@ -2,8 +2,11 @@
 ***
 
 Мои проекты:
-![Alt text](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chatbotprovidenie.png) "Чат-бот «Провидение»")
+<br>
+![Alt text](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chatbotprovidenie.png "Чат-бот «Провидение»")
+<br>
 
+![Alt text](//placehold.it/200x100 "Здесь title")
 <!--
 **KochanovAndrey/kochanovandrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
