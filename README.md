@@ -3,10 +3,15 @@
 
 Мои проекты:
 <br>
-![Alt text](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chatbotprovidenie.png "Чат-бот «Провидение»")
+[!Чат-бот «Провидение»](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chatbotprovidenie.png)(http://google.com/)
 <br>
 
-![Alt text](//placehold.it/200x100 "Здесь title")
+#### Языки и инструменты
+
+#### Соцсети
+
+#### Связаться:
+
 <!--
 **KochanovAndrey/kochanovandrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
