@@ -1,4 +1,8 @@
-### Hi there 👋
+### QA Engineer
+***
+
+Мои проекты:
+![Alt text](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chatbot.png "Чат-бот «Провидение»")
 
 <!--
 **KochanovAndrey/kochanovandrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
