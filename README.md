@@ -3,7 +3,8 @@
 
 Мои проекты:
 <br>
-[!Чат-бот «Провидение»](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chatbotprovidenie.png)](http://google.com/)
+[![Alt text](//placehold.it/150x100)](http://example.com/)
+[!Чат-бот «Провидение»](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chatbotprovidenie.png)](https://google.com/)
 <br>
 
 #### Языки и инструменты
