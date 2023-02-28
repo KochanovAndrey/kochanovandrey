@@ -13,16 +13,16 @@
 * Примеры SQL-запросов
 
 #### Языки и инструменты:
-HTML
-Android Studio
-DevTools
-Charles
-Postman
-TMS
-Яндекс Трекер
-Jira
-Confluence
-YouTrack
+— HTML
+<br> — Android Studio
+<br> — DevTools
+<br> — Charles
+<br> — Postman
+<br> — TMS
+<br> — Яндекс Трекер
+<br> — Jira
+<br> — Confluence
+<br> — YouTrack
 
 
 #### Соцсети:
