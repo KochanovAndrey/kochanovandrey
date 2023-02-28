@@ -3,7 +3,8 @@
 
 Мои проекты:
 <br>
-[![Alt text](//placehold.it/150x100)](http://example.com/)
+[https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chatbotprovidenie.png](http://example.com/)
+(https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chatbotprovidenie.png)](https://google.com/)
 [!Чат-бот «Провидение»](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chatbotprovidenie.png)](https://google.com/)
 <br>
 
