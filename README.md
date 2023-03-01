@@ -26,8 +26,10 @@
 
 
 #### Соцсети:
+[Telegram](https://t.me/askochanov)
 
 #### Связаться:
+askochanov@gmail.com
 
 #### Статистика GitHub:
 
