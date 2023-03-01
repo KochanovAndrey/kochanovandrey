@@ -2,7 +2,7 @@
 ***
 
 #### Мои проекты:
-[![Чат-бот «Провидение»](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/1.png)](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chat_bot_providenie_telegram.png)
+[![Чат-бот «Провидение»](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/button_chat_bot.png)](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/chat_bot_providenie_telegram.png)
 
 #### Техническое портфолио:
 * [Тест-кейсы](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/test_cases.png)
