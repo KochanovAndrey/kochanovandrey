@@ -18,6 +18,7 @@
 <br> — DevTools
 <br> — Charles
 <br> — Postman
+<br> — PyCharm
 <br> — TMS
 <br> — Яндекс Трекер
 <br> — Jira
