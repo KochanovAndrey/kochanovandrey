@@ -12,8 +12,7 @@
 * [Примеры API-запросов](https://github.com/KochanovAndrey/kochanovandrey/blob/main/Кочанов%20Андрей.postman_collection.json)
 * [Примеры SQL-запросов](https://docs.google.com/document/d/10e9WwHqIAKQB1RhpmmqAVBwDqJlV2KGTmISEp5-RLy8/edit?usp=sharing)
 
-#### Языки и инструменты:
-— HTML
+#### Инструменты:
 <br> — Android Studio
 <br> — DevTools
 <br> — Charles
