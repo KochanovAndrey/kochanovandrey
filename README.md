@@ -12,7 +12,14 @@
 * [Примеры API-запросов](https://github.com/KochanovAndrey/kochanovandrey/blob/main/Кочанов%20Андрей.postman_collection.json)
 * [Примеры SQL-запросов](https://docs.google.com/document/d/10e9WwHqIAKQB1RhpmmqAVBwDqJlV2KGTmISEp5-RLy8/edit?usp=sharing)
 
-#### Инструменты:
+#### Инструменты и навыки:
+<br> — Тест-анализ
+<br> — Тест-дизайн
+<br> — Составление тестовой документации
+<br> — Тестирование Web приложений
+<br> — Тестирование мобильных приложений
+<br> — Тестирование API
+<br> — SQL
 <br> — Android Studio
 <br> — DevTools
 <br> — Charles
