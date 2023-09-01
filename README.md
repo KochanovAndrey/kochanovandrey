@@ -38,8 +38,6 @@
 #### Связаться:
 askochanov@gmail.com
 
-[![Благодарность](https://github.com/KochanovAndrey/kochanovandrey/blob/main/button_gratitude.png/250x100)](https://github.com/KochanovAndrey/kochanovandrey/blob/main/gratitude.pdf)
-
 #### Статистика GitHub:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KochanovAndrey)](https://github.com/KochanovAndrey/)
