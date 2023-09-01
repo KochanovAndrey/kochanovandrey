@@ -38,7 +38,7 @@
 #### Связаться:
 askochanov@gmail.com
 
-[![Благодарность](https://github.com/KochanovAndrey/kochanovandrey/blob/main/button_gratitude.png)](http://example.com/](https://github.com/KochanovAndrey/kochanovandrey/blob/main/gratitude.pdf)
+[![Благодарность](https://github.com/KochanovAndrey/kochanovandrey/blob/main/button_gratitude.png/250x100)](https://github.com/KochanovAndrey/kochanovandrey/blob/main/gratitude.pdf)
 
 #### Статистика GitHub:
 
