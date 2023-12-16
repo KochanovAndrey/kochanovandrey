@@ -3,7 +3,17 @@
 [![Диплом](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/diplom.png)](https://github.com/KochanovAndrey/kochanovandrey/blob/6b2c976bd796d1b43484d562ed73f12e5d9cf0fb/9b1fc5d2-Kochanov-Andrey-Sergeevich_20232PQA00038.pdf)
 
 #### Мои проекты:
+[Готовые]
 [![Чат-бот «Провидение»](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/button_chat_bot.png)](https://t.me/providenie_fond_bot)
+[Чат-бот мероприятия КОнфа (Kokoc Group)]([https://t.me/askochanov](https://botcreators.ru/blog/chat-bot-dlja-konferencii-kokoc-group-konfa/))
+[Чат-бот мероприятия КОнфа (Kokoc Group)]
+[Готовые (под NDA]
+Мобильное приложение закрытого клуба строительной компании
+Сайт инструмента для анализа данных
+Чат-боты по темам: инвестиции, выгрузка по Гугл Таблицам, закрытое музыкальное мероприятие, благотворительность, конкурс для создателей контента, информирование о проектах для креативного агенства, закрытое мероприятие для сотрудников компании
+[Работаю над ними прямо сейчас (под NDA)]
+Внутренний инструмент для сотрудников транспортной компании
+Мобильное приложение для закрытого сообщества активных людей
 
 #### Техническое портфолио:
 * [Тест-кейсы](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/test_cases.png)
