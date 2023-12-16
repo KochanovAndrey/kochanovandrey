@@ -4,8 +4,8 @@
 
 ### Мои проекты:
 ## Готовые:
-[Чат-бот «Провидение»](https://t.me/providenie_fond_bot)
-[Чат-бот мероприятия КОнфа (Kokoc Group)](https://botcreators.ru/blog/chat-bot-dlja-konferencii-kokoc-group-konfa/)
+* [Чат-бот «Провидение»](https://t.me/providenie_fond_bot)
+* [Чат-бот мероприятия КОнфа (Kokoc Group)](https://botcreators.ru/blog/chat-bot-dlja-konferencii-kokoc-group-konfa/)
 ## Готовые (под NDA)
 * Мобильное приложение закрытого клуба строительной компании
 * Сайт инструмента для анализа данных
