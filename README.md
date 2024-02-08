@@ -6,13 +6,16 @@
 ## Готовые:
 * [Чат-бот «Провидение»](https://t.me/providenie_fond_bot)
 * [Чат-бот мероприятия КОнфа (Kokoc Group)](https://botcreators.ru/blog/chat-bot-dlja-konferencii-kokoc-group-konfa/)
+* [Чат-бот для работы с заказами](https://botcreators.ru/blog/chat-bot-dlja-kontrolja-raboty-sotrudnikov/)
+* [Информационный бот](https://botcreators.ru/blog/informacionnyj-bot-otec-reestr/)
+* [Чат-бот для конференции](https://botcreators.ru/blog/chat-bot-dlja-konferencii/)
+* [Чат-бот для контроля сделок](https://botcreators.ru/blog/chat-bot-dlja-kontrolja-sdelok/)
 ## Готовые (под NDA)
 * Мобильное приложение закрытого клуба строительной компании
 * Сайт инструмента для анализа данных
-* Чат-боты по темам: инвестиции, выгрузка по Гугл Таблицам, закрытое музыкальное мероприятие, конкурс для создателей контента, информирование о проектах для креативного агенства, закрытое мероприятие для сотрудников компании
-## Работаю над ними прямо сейчас (под NDA)
+## Работаю над ними прямо сейчас
 * Внутренний инструмент для сотрудников транспортной компании
-* Мобильное приложение для закрытого сообщества активных людей
+* Мобильное приложение для мероприятий города Москва
 
 ### Техническое портфолио:
 * [Тест-кейсы](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/test_cases.png)
