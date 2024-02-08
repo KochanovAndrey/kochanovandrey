@@ -30,13 +30,13 @@
 <br> — Составление тестовой документации
 <br> — Тестирование Web приложений
 <br> — Тестирование мобильных приложений
-<br> — Тестирование API
-<br> — SQL
+<br> — Backend тестирование API
+<br> — Поиск и локализация дефектов
+<br> — SQL (на уровне простых запросов)
 <br> — Android Studio
 <br> — DevTools
-<br> — Charles
 <br> — Postman
-<br> — PyCharm
+<br> — PyCharm (основы)
 <br> — TMS
 <br> — Яндекс Трекер
 <br> — Jira
