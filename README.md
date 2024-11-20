@@ -46,7 +46,7 @@
 <br> — Яндекс Трекер
 <br> — Jira
 <br> — Confluence
-<br> — YouTrack
+<br> — RedMine
 
 
 #### Соцсети:
