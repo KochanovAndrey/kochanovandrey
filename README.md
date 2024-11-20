@@ -4,18 +4,23 @@
 
 ### Мои проекты:
 ## Готовые:
-* [Чат-бот «Провидение»](https://t.me/providenie_fond_bot)
+* [Чат-бот Кружок](https://botcreators.ru/blog/kruzhok/)
+* [Чат-бот с ИИ для РИФ 2024](https://botcreators.ru/blog/chat-bot-s-ii-dlja-rif-2024/)
+* [Чат-бот для контентного челленджа Дзена 2024](https://botcreators.ru/blog/chat-bot-dlja-kontentnogo-chellendzha-dzena-2024/)
 * [Чат-бот мероприятия КОнфа (Kokoc Group)](https://botcreators.ru/blog/chat-bot-dlja-konferencii-kokoc-group-konfa/)
 * [Чат-бот для работы с заказами](https://botcreators.ru/blog/chat-bot-dlja-kontrolja-raboty-sotrudnikov/)
 * [Информационный бот](https://botcreators.ru/blog/informacionnyj-bot-otec-reestr/)
 * [Чат-бот для конференции](https://botcreators.ru/blog/chat-bot-dlja-konferencii/)
 * [Чат-бот для контроля сделок](https://botcreators.ru/blog/chat-bot-dlja-kontrolja-sdelok/)
+* [Чат-бот «Провидение»](https://t.me/providenie_fond_bot)
 ## Готовые (под NDA)
 * Мобильное приложение закрытого клуба строительной компании
 * Сайт инструмента для анализа данных
-## Работаю над ними прямо сейчас
 * Внутренний инструмент для сотрудников транспортной компании
-* Мобильное приложение для мероприятий города Москва
+* Мобильное приложение для мероприятий Москвы
+## Работаю над ними прямо сейчас
+* Проект для однбординга новых сотрудников производственного прредприятия
+* Чат-бот для профессиональной коммункаици сеньёров с джунами
 
 ### Техническое портфолио:
 * [Тест-кейсы](https://raw.githubusercontent.com/KochanovAndrey/kochanovandrey/main/test_cases.png)
